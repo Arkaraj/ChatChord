@@ -6,6 +6,7 @@ Clone it
 
 Terminal in that directory:
 npm install
+npm install nodemon
 npm run dev
 
 Go to localhost:3000
